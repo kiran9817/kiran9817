@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiran9817
-- 👀 I’m interested in "web developmer".
+- 👀 I’m interested in "web developer".
 - 🌱 I’m currently learning Python,Java..
 - 💞️ I’m looking to collaborate on "Amazon".
 - 📬 kiransaikinjarapu@gmail.com
